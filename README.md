@@ -2,4 +2,4 @@
 
 轻简官方网站
 
-https://kinoner.github.io/QJTools.KINO/
+https://qjtools-kino.netlify.app/
